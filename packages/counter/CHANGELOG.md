@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0-alpha.0](https://github.com/sanik-bajracharya/lerna-starter/compare/@gmdev/counter@0.1.0...@gmdev/counter@0.2.0-alpha.0) (2019-07-29)
+
+
+### Features
+
+* Add secondary counter ([e66dea8](https://github.com/sanik-bajracharya/lerna-starter/commit/e66dea8))
+
+
+
+
+
 # [0.1.0](https://github.com/sanik-bajracharya/lerna-starter/compare/@gmdev/counter@0.0.4...@gmdev/counter@0.1.0) (2019-07-29)
 
 
