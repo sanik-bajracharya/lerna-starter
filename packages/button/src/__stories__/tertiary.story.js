@@ -6,7 +6,7 @@ import Button from '..';
 
 const stories = storiesOf('Button', module);
 
-stories.add('Tertiary Button', () => (
+stories.add('Tertiary Button Fix 1', () => (
   <Button>
     {({ getProps }) => (
       <button {...getProps()} onClick={action('button')}>

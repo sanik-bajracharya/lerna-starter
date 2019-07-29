@@ -5,7 +5,7 @@ import Counter from '..';
 
 const stories = storiesOf('Counter', module);
 
-stories.add('Tertiary counter Example', () => (
+stories.add('Tertiary counter Example - Fix 1', () => (
   <Counter>
     {({ increase, decrease, count }) => (
       <div>
