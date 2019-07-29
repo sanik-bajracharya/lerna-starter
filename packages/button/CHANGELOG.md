@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/sanik-bajracharya/lerna-starter/compare/@gmdev/button@0.2.1-alpha.0...@gmdev/button@0.2.2) (2019-07-29)
+
+
+### Bug Fixes
+
+* Fixed tertiary button ([4dd861f](https://github.com/sanik-bajracharya/lerna-starter/commit/4dd861f))
+
+
+
+
+
 ## [0.2.1-alpha.0](https://github.com/sanik-bajracharya/lerna-starter/compare/@gmdev/button@0.2.0...@gmdev/button@0.2.1-alpha.0) (2019-07-29)
 
 
