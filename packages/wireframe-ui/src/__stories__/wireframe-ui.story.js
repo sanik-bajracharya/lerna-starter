@@ -7,7 +7,7 @@ import { Button, Counter } from '../';
 const stories = storiesOf('Wire Frame UI', module);
 
 stories
-  .add('Default Button', () => (
+  .add('Default Button Example', () => (
     <Button onClick={action('button')}>Default Button</Button>
   ))
   .add('Secondary Button', () => (
