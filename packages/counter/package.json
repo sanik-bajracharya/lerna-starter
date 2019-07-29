@@ -1,6 +1,6 @@
 {
   "name": "@gmdev/counter",
-  "version": "0.3.0-alpha.0",
+  "version": "0.3.0",
   "description": "Example Counter Component",
   "main": "dist/index.js",
   "module": "src/index.js",
